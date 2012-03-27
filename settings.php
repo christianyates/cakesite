@@ -514,3 +514,5 @@ $conf['404_fast_html'] = '<html xmlns="http://www.w3.org/1999/xhtml"><head><titl
 if (file_exists('/var/www/site-php')) {
   require('/var/www/site-php/caketarget/testsite-settings.inc');
 }
+
+# I'M A LITTLE TEAPOT
